@@ -1,0 +1,434 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+/* .ourbaking h2{
+    padding:100px 0 20px 0;
+    font-size: 32px;
+    text-align: center;
+}
+.ourbaking p{
+    text-align: center;
+}
+.ourbaking p ,.ourbakingcontent p{
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+.ourbakingcontent{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+.ourbakingcontent .sec {
+    width: 33%;
+padding: 10px;
+}
+.ourbakingcontent .sec img{
+    width: 100%;
+}
+.ourbakingcontent h3{
+    text-align: center;
+    padding: 20px;
+}
+ */
+
+
+
+
+
+
+
+/* 
+
+
+
+
+
+
+
+
+
+
+.info{
+    width: 90%;
+    margin: auto;
+    background-color: #f8f8f8;
+    padding: 80px;
+}
+.infocontent{
+    width: 50%;
+    float: left;
+}
+.infocontent{
+    padding: 20px 20px 0;
+}
+.infocontent h2{
+    padding:10px 25px 50px 0;
+    font-size: 32px;
+}
+.infocontent ul li{
+    list-style: none;
+}
+.infocontent p{
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+.infoimg img{
+    width: 50%;
+    float: left;
+}
+
+  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .nav ul li{
+    margin: 10px;
+    list-style: none;
+    margin: 10px;
+    vertical-align: middle;
+}
+.inline-block{
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.clear{
+    clear: both;
+}
+.nav{
+    padding: 10px;
+}
+.innernav{
+    width: 80%;
+    margin: auto;
+    color: white;
+}
+.left{
+    float: left;
+}
+.right {
+    float: right;
+    text-align: center;
+}
+.left img{
+    width: 200px;
+}
+.homesection{
+    height: 100vh; 
+    overflow: auto;
+    background-image: url('./images/drew-coffman-1872.jpg') ;
+    background-position: center center;
+    background-size: cover;
+ }
+ .homecontent{
+     color: white;
+     text-align: center;
+     margin: 150px;
+ }
+ h1{
+     font-size: 76px;
+ }
+ h1 ,h2 ,h3 ,h4 ,h5 ,h6{
+     font-weight: 400;
+ }
+ .homecontent p {
+     width: 50%;
+     margin: auto;
+ }
+ .homecontent h1{
+     margin: 15px 0px;
+ }
+ .btns{
+     margin: 20px;
+ }
+ .btn{
+     padding: 20px 30px;
+     border-radius: 5px;
+     border: none;
+     color: white;
+ }
+ .btn1{
+     background-color: #8e7754;
+     border: solid 3px  transparent ;    
+ }
+ .btn2{
+ background-color: transparent;
+ border: solid 3px white ;
+ } 
+
+
+
+/* aboutus section */
+.aboutus{
+    width: 90%;
+    padding: 50px 0;
+    margin: auto;
+}
+.aboutimg ,.aboutcontent{
+    width: 49%;
+    display: inline-block;
+    padding: 40px;
+    vertical-align: middle;
+}
+.aboutcontent{
+    padding: 20px 20px 0;
+}
+.aboutcontent h2{
+    padding:20px 25px 50px 0;
+    font-size: 32px;
+}
+.aboutcontent p{
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.aboutimg img{
+    width: 100%;
+
+}
+.aboutcontent ul li {
+    list-style: none;
+    vertical-align: middle;
+}
+.icon{
+    padding: 10px;
+} 
+
+.icon img{
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+/* our location section */
+
+
+
+.ourlocation{
+    padding: 50px 0;
+    margin: auto;
+    background-color: #f8f8f8;
+}
+.ourlocationimg ,.ourlocationcontent{
+    width: 49%;
+    display: inline-block;
+    padding: 40px;
+    vertical-align: middle;
+}
+.ourlocationcontent{
+    padding: 60px;;
+}
+.ourlocationcontent h2{
+    padding:20px 25px 50px 0;
+    font-size: 32px;
+}
+.ourlocationcontent p{
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.ourlocationimg img{
+    width: 100%;
+}
+
+
+
+
+
+
+/* our baking section */
+
+.ourbaking h2{
+    padding:100px 0 20px 0;
+    font-size: 32px;
+    text-align: center;
+}
+.ourbaking p{
+    text-align: center;
+}
+.ourbaking p ,.ourbakingcontent p{
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+.ourbakingcontent{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+.ourbakingcontent .sec {
+    width: 33%;
+padding: 10px;
+}
+.ourbakingcontent .sec img{
+    width: 100%;
+}
+.ourbakingcontent h3{
+    text-align: center;
+    padding: 20px;
+}
+
+/* contact info section */
+.contactinfo{
+    background-color:#f8f8f8;
+}
+.info{
+    
+    width: 90%;
+    padding: 50px 0;
+    margin: auto;
+}
+.infoimg ,.infocontent{
+    width: 49%;
+    /* display: inline-block; */
+    padding: 40px;
+    vertical-align: middle;
+}
+.infocontent{
+    padding: 20px 20px 0;
+}
+.infocontent h2{
+    padding:20px 25px 20px 0;
+    font-size: 32px;
+}
+.infocontent p{
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+.infoimg img{
+    width: 100%;
+
+}
+.infocontent ul li {
+    list-style: none;
+    /* vertical-align: middle; */
+}
+.icon{
+    padding: 10px;
+} 
+
+.infocontent .icon img{
+    width: fit-content;
+}
+
+/* footer section */
+.footer{
+    background-color: #403d38;
+    color: #f8f8f8;
+    padding-bottom: 60px;
+}
+.content{
+width: 90%;
+margin: auto;
+padding: 60px 0 ;
+}
+.about{
+    width: 25%;
+}
+.about h4{
+    font-size: 21px;
+    padding-bottom: 40px;
+}
+.about p{
+    padding: 0 40px 40px 0 ;
+}
+.special{
+    width: 25%;
+}
+.special h4{
+    font-size: 21px;
+    padding-bottom: 40px;
+}
+.special hr{
+    margin: 10px 0 10px 0 ;
+}
+
+.opening{
+    width: 25%;
+}
+.opening h4{
+    font-size: 21px;
+    padding-bottom: 40px;
+}
+.opening{
+    padding: 0 0 0 20px;
+}
+.opening hr{
+    margin: 10px 0 10px 0 ;
+}
+.details{
+    width: 25%;
+}
+.details h4{
+    font-size: 21px;
+    padding-bottom: 40px;
+}
+.details{
+    padding: 0 0 0 20px;
+}
+.details hr{
+    margin: 10px 0 10px 0 ;
+}
+.details p img{
+    width: fit-content;
+}
+
+
+
+/* second footer */
+.secfooter{
+    background-color: #353330;
+    text-align: center;
+    padding: 60px 0 60px 0;
+}
+.secfooter p{
+    padding:  40px 0  ;
+ 
+    color: rgba(250, 250, 250, 0.5);   
+}
